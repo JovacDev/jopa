@@ -1,6 +1,7 @@
 
 # FVM Version Cache
 .fvm/
+.fvmrc
 
 # VSCode
 .vscode/
@@ -15,5 +16,8 @@ firebase.json
 
 # Build outputs
 build/
+
+# Dart
+.dart_tool/
 
 
