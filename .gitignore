@@ -1,0 +1,19 @@
+
+# FVM Version Cache
+.fvm/
+
+# VSCode
+.vscode/
+.idea/
+
+# Flutter
+*.flutter
+
+# Firebase
+firebase.json
+.firebaserc
+
+# Build outputs
+build/
+
+
